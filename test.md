@@ -7,3 +7,4 @@ posle grane
 
 remote
 
+jos jedan
