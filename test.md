@@ -9,3 +9,5 @@ remote
 
 jos jedan
 drugi
+
+feature branch za pull request
