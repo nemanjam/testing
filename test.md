@@ -18,3 +18,4 @@ jos jedan komit
 remote commit 1
 
 remote commit 2
+local commit 1
