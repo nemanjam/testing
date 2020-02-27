@@ -16,3 +16,5 @@ second feature branch za pull request
 jos jedan komit
 
 remote commit 1
+
+remote commit 2
