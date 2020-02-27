@@ -24,3 +24,5 @@ local commit 2
 
 remote commit 3
 local commit 3
+
+local commit lf
