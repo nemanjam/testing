@@ -23,3 +23,4 @@ local commit 1
 local commit 2
 
 remote commit 3
+local commit 3
