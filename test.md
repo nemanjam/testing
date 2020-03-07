@@ -26,3 +26,5 @@ remote commit 3
 local commit 3
 
 local commit lf
+
+master komit 1
