@@ -34,4 +34,4 @@ remote komit na master
 grana-2 lokalni komit
 remote komit master
 master sa konfliktom remote komit
-
+grana-3 local commit
