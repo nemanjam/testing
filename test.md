@@ -32,8 +32,12 @@ komit u mojoj grani
 remote komit na master
 
 grana-2 lokalni komit
-
+remote komit master
 master sa konfliktom remote komit
 grana-3 local commit
 
+<<<<<<< HEAD
 remote komit na grana-3
+=======
+remote komit na master za pull na local granu
+>>>>>>> master
