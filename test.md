@@ -28,3 +28,4 @@ local commit 3
 local commit lf
 
 master komit 1
+remote komit na master
