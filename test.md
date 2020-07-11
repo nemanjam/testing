@@ -30,3 +30,4 @@ local commit lf
 master komit 1
 komit u mojoj grani
 remote komit na master
+grana-2 lokalni komit
