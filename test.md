@@ -40,3 +40,4 @@ remote komit na master za pull na local granu
 konflikt local
 konflikt remote
 undo git add .
+3
