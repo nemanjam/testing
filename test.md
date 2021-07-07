@@ -36,6 +36,7 @@ remote komit master
 master sa konfliktom remote komit
 grana-3 local commit
 
+remote komit na grana-3
 remote komit na master za pull na local granu
 konflikt local
 konflikt remote
