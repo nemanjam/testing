@@ -44,3 +44,5 @@ undo git add .
 3
 vrati se na ovaj
 ovaj je zadnji
+
+commit for release
