@@ -20,3 +20,9 @@ body text
   1. New Zealand
   2. Australia
   3. South Africa
+
+
+promena za multiline commit message
+
+
+
